@@ -38,6 +38,6 @@ Después de descomprimir el archivo `ai-fitness-trainer-using-mediapipe.zip`, ej
 pip install -r requirements.txt
 
 Ejecución
-Para iniciar la aplicación, ejecuta:
-```bash
+
+- Para iniciar la aplicación, ejecuta:
 streamlit run Demo.py
